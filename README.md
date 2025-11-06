@@ -4,6 +4,7 @@
 
 This project demonstrates a **complete automated DevOps workflow on AWS**, built entirely using Infrastructure as Code (IaC) principles.
 
+![DEPLOYED APP](documentation/screenshots/homelab.jpg)
 ---
 
 ### 🚀 Pipeline Flow
