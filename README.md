@@ -1,6 +1,6 @@
 # 🚀 Home Lab - CI/CD, Kubernetes & Monitoring
 
-## ⚡️ TL;DR — End-to-End AWS DevOps Pipeline
+## ⚡️ TL;DR — End-to-End AWS Pipeline
 
 This project demonstrates a **complete automated DevOps workflow on AWS**, built entirely using Infrastructure as Code (IaC) principles.
 
