@@ -1,4 +1,4 @@
-# 🚀 Home Lab - CI/CD, Kubernetes & Monitoring
+# 🚀 CI/CD, Kubernetes & Monitoring Platform
 
 ## ⚡️ TL;DR — End-to-End AWS Pipeline
 
